@@ -1,7 +1,7 @@
 
 <p align="center">
 <img
-    src="./capa-podcast-Copia.png"
+    src="./avatar.png"
     width="300"
 />
 </p>
