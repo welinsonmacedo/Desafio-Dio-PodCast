@@ -1,23 +1,11 @@
 
 <p align="center">
 <img
-    src="./assets/capa-podcast.png"
+    src="./capa-podcast.png"
     width="300"
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube"
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72"
-        alt="🔴 LIVE CODE">
-</a>
-</p>
 
 <p align="center">
     Preview do podcast
@@ -62,7 +50,7 @@ Podcast criado utilizando apenas o **ChatGPT**, com uma esteira de prompts otimi
       align=left
       margin=10
       width=80
-      src="./assets/avatar.png"
+      src="./avatar.png"
     />
     <p>&nbsp;&nbsp;&nbsp;<strong>Welinson Marlon</strong><br>
     &nbsp;&nbsp;&nbsp;
