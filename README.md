@@ -33,7 +33,6 @@ Podcast criado utilizando apenas o **ChatGPT**, com uma esteira de prompts otimi
 
 ## 📚 Materiais e Referências
 
-- [Template Notion - Planejamento](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 
 ## 🛠️ Como executar seu próprio podcast com IA
 
@@ -54,11 +53,11 @@ Podcast criado utilizando apenas o **ChatGPT**, com uma esteira de prompts otimi
     />
     <p>&nbsp;&nbsp;&nbsp;<strong>Welinson Marlon</strong><br>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/welinsonmarlon">GitHub</a>
+    <a href="https://github.com/welinsonmacedo">GitHub</a>
     &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/welinsonmarlon">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/welinsonmarlon](https://www.linkedin.com/in/welinson-marlon-5b1469241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/welinsonmarlon">Instagram</a>
+    <a href="https://www.instagram.com/eusoumarlon](https://www.instagram.com/_eusoumarlon_?igsh=MWV6NzQwcTV5azhsYw==)">Instagram</a>
     </p>
 </p>
 
